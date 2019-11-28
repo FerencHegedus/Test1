@@ -7,3 +7,5 @@ Branch1 created on the server.
 Modified locally
 
 Modified after setting the tracking
+
+Modified after tracking with the same name
